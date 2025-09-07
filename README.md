@@ -21,5 +21,5 @@ It is divided into two main parts:
 
 ## Setup
 Each part has its own **README.md** with detailed setup & run instructions:
-- [Frontend README](./frontend/README.md)  
-- [Backend README](./backend/README.md)  
+- [Frontend README](project-root/frontend/README.md)  
+- [Backend README](project-root/backend/README.md)  
